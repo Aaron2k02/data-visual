@@ -27,9 +27,8 @@ st.markdown(original_title, unsafe_allow_html=True)
 # Center the iframe using a div with CSS styling for centering
 excel_embed_code = """
 <div style="display: flex; justify-content: center;">
-    <iframe width="2500" height="1300" frameborder="0" scrolling="no"
-        src="https://onedrive.live.com/embed?resid=A812EEDD0434CF62%2123166&authkey=%21AK3tjEKWfwoHG6E&em=2&AllowTyping=True&ActiveCell='Dashboard'!E2&Item='Dashboard'!E2%3AAL66&wdHideGridlines=True&wdInConfigurator=True&z=15">
-    </iframe>
+    <iframe width="1600" height="1100" frameborder="0" scrolling="no" 
+    src="https://1drv.ms/x/c/a812eedd0434cf62/IQSw3JiX_mDBRIP1tzUjztOzARsVS_GgJBB0n7Go-2hwlqQ?e=JYvSxx?AllowTyping=True&ActiveCell='Dashboard'!B2&Item='Dashboard'!B1%3AV50&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
 </div>
 """
 
